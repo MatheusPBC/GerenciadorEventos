@@ -3,7 +3,7 @@
 📜 Um pequeno programa em Java capaz de cadastrar pessoas, salas, intervalos e gerencialos.
 
 
-💡 UMa unica janela com varias caixas onde e posssivel cadastrar pessoas, salas e horarios de intervalo, onde o resultado sera exibido numa tabela logo em baixo
+💡 Uma unica janela com varias caixas onde e posssivel cadastrar pessoas, salas e horarios de intervalo, onde o resultado sera exibido numa tabela logo em baixo
 
 
 ## 🗃 Histórico de lançamentos
